@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href=" https://leetcode.com/u/adarshtiwari99/" target="_blank">
+  <a href="https://leetcode.com/u/adarshtiwari99/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   
-  <a href="https://www.codechef.com/users/YourUserName" target="_blank">
+  <a href="https://www.codechef.com/users/adarsh_131120" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
@@ -44,8 +44,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxmate&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxmate&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh&theme=tokyonight" height="150" />
 </p>
 
 ---
